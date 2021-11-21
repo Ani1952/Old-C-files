@@ -1,0 +1,6 @@
+STEP 1 : Start 
+STEP 2: Take the operator as Input from the User in variable x
+STEP 3: Switch case is included  to run through the set of 4 operators and calculate accordingly
+STEP 4: For some operator other than the main operators,default case displays invalid messege
+STEP 5: Print the messege accordingly
+STEP 6:  End

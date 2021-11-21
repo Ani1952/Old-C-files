@@ -1,0 +1,6 @@
+STEP 1 : Start 
+STEP 2: Take the grade as Input from the User in variable n
+STEP 3 : Create Else-if block to check for Various Slabs like 90-100, 80-90 , 70-80 , etc. and print respective Grade.
+STEP 4 : Create a Slab for n<40 and display “FAIL”
+STEP 5 : Check for invalid number in last else statement and print “INVALID GRADE”
+STEP 6 : End
